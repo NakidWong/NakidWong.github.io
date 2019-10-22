@@ -1,0 +1,39 @@
+[
+  {
+    "name": "wechat",
+    "app_id": "wxe403d5b55ec05a5b",
+    "secret": "b8408922848c3b5a4e68b09a728a6ef7"
+  },
+  {
+    "name": "baidu",
+    "app_id": "Hze6Ehn0N6VViQwrTVehmVoU5DGGw1D9",
+    "secret": ""
+  },
+  {
+    "name": "bugly",
+    "app_id": "1d46bcb768",
+    "secret": "ef13532b-eba9-4b36-b8ef-07e51ed6a139"
+  },
+  {
+    "name": "xianliao",
+    "app_id": "rAUJMcESGsfv9zZG",
+    "secret": "CgGTPZgZLRU2IBmx"
+  },
+  {
+    "name": "cajian",
+    "app_id": "cje0133ols6k1h",
+    "secret": ""
+  },
+  {
+    "name": "package",
+    "package_name": "com.xq5.zhuanzhuanmj",
+    "app_name": "中至转转"
+  },
+  {
+    "name": "signconfig",
+    "keyAlias": "xq5game",
+    "keyPassword":"xq5game",
+    "storePassword":"zhongzhi",
+    "signname":"xq5Sign.jks"
+  }
+]
